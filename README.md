@@ -5,4 +5,4 @@ this repository contains my assignments
 
 [assignment 3](https://github.com/MateoMalbasic/assignment/blob/master/assignment3%20(2).ipynb)
 
-[assignment 4]
+[assignment 4](https://github.com/MateoMalbasic/assignment/blob/master/assignment4.ipynb)
