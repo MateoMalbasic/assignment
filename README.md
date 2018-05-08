@@ -7,4 +7,4 @@ this repository contains my assignments
 
 [assignment 4](https://github.com/MateoMalbasic/assignment/blob/master/assignment4.ipynb)
 
-[week6 assignment]
+[week6 assignment](https://github.com/MateoMalbasic/assignment/blob/master/week6correct.ipynb)
