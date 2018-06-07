@@ -13,3 +13,5 @@ this repository contains my assignments
 
 ---------------------------------------------------------------------------------------------------------
 [ExamJune7Python](https://github.com/MateoMalbasic/assignment/blob/master/exam_june_7_2018.ipynb)
+
+[ExamJune7R](https://github.com/MateoMalbasic/assignment/blob/master/Exam_student2.ipynb)
