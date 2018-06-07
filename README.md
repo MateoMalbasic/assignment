@@ -10,3 +10,6 @@ this repository contains my assignments
 [week6 assignment](https://github.com/MateoMalbasic/assignment/blob/master/week6correct.ipynb)
 
 [Graded Assignment 2](https://github.com/MateoMalbasic/assignment/blob/master/Graded_assignment_2.ipynb)
+
+---------------------------------------------------------------------------------------------------------
+[ExamJune7Python](https://github.com/MateoMalbasic/assignment/blob/master/exam_june_7_2018.ipynb)
